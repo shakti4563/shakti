@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shakti - Meditation Book Recommendations</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Shakti - Meditation Book Recommendations</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Featured Books</h2>
+            <ul>
+                <li>The Power of Now by Eckhart Tolle</li>
+                <li>Mindfulness for Beginners by Jack Kornfield</li>
+                <li>A Still Forest Pool by Pema Chödrön</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2022 Shakti. All rights reserved.</p>
+    </footer>
+</body>
+</html>
